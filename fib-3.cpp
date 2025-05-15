@@ -34,7 +34,7 @@ int fib(int n){
 int main() {
 
     fastIO();
-// space optimized fibbonacci Dp problem using recursion+save
+// space optimized fibbonacci Dp problem 
 
   int n;
 
